@@ -44,3 +44,6 @@ In the delivery phase, DevOps teams:
 Define a release management process with clear manual approval stages.
 Set automated gates to move applications between stages until final release to customers.
 Automate delivery processes to make them scalable, repeatable, controlled, and well-tested.
+
+Operations
+The operations phase involves maintaining, monitoring, and troubleshooting applications in production environments, including hybrid or public clouds like Azure. DevOps teams aim for system reliability, high availability, strong security, and zero downtime

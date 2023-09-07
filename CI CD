@@ -1,4 +1,4 @@
 
 continuous Integration
 continuous delivery ---  make sure code quality very low risk of failure
-continuous Deplpoyment -- deployment to production automatic release to prod
+continuous Deployment -- deployment to production automatic release to prod

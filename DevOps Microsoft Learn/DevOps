@@ -10,3 +10,27 @@ Through increased efficiencies, improved team collaboration, automation tools, a
 Adapt to the market and competition
 A DevOps culture demands teams have a customer-first focus. By marrying agility, team collaboration, and focus on the customer experience, teams can continuously deliver value to their customers and increase their competitiveness in the marketplace
 Maintain system stability and reliability
+By adopting continuous improvement practices, teams are able to build in increased stability and reliability of the products and services they deploy. These practices help reduce failures and risk
+Improve the mean time to recovery
+The mean time to recovery metric indicates how long it takes to to recover from a failure or breach. To manage software failures, security breaches, and continuous improvement plans, teams should measure and work to improve this metric
+
+The following practices are key components of a DevOps culture
+Collaboration, visibility, and alignment
+Shifts in scope and accountability
+Shorter release cycles
+Continuous learning
+
+Implement DevOps practices
+Continuous integration and continuous delivery (CI/CD)
+Agile software development
+Infrastructure as code
+Configuration management
+Continuous monitoring
+
+Development
+The development phase includes all aspects of developing software code. In this phase, DevOps teams do the following tasks:
+
+Select a development environment.
+Write, test, review, and integrate the code.
+Build the code into artifacts to deploy into various environments.
+Use version control, usually Git, to collaborate on code and work in parallel

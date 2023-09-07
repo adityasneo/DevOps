@@ -34,3 +34,13 @@ Select a development environment.
 Write, test, review, and integrate the code.
 Build the code into artifacts to deploy into various environments.
 Use version control, usually Git, to collaborate on code and work in parallel
+
+Deliver
+
+Delivery is the process of consistently and reliably deploying applications into production environments, ideally via continuous delivery (CD).
+
+In the delivery phase, DevOps teams:
+
+Define a release management process with clear manual approval stages.
+Set automated gates to move applications between stages until final release to customers.
+Automate delivery processes to make them scalable, repeatable, controlled, and well-tested.
